@@ -1,2 +1,3 @@
 # API_MYFLIX
-API was built to practice python skills and learn how to create an API
+
+this API_MYFLIX is an api to put the series that you want to sign in on DataBase
